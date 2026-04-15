@@ -17,3 +17,5 @@ Estou focado em transição para a área de Desenvolvimento de Software, com est
 - Buscando oportunidade como desenvolvedor júnior
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManelSMO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManelSMO&layout=compact&theme=tokyonight)
